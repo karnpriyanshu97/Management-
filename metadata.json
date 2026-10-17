@@ -1,0 +1,6 @@
+{
+  "name": "1campus",
+  "description": "1campus - Unified School Management and Daily Operations platform for teachers, staff, administrators and the Principal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
